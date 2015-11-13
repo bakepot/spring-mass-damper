@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: spring-mass-damper_computation_comparison.aux
+The style file: apalike.bst
+Database file #1: Potts_bibliography.bib
+You've used 5 entries,
+            1935 wiz_defined-function locations,
+            502 strings with 4309 characters,
+and the built_in function-call counts, 1563 in all, are:
+= -- 148
+> -- 53
+< -- 5
++ -- 18
+- -- 16
+* -- 114
+:= -- 287
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 32
+chr.to.int$ -- 5
+cite$ -- 5
+duplicate$ -- 70
+empty$ -- 116
+format.name$ -- 27
+if$ -- 306
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 10
+newline$ -- 28
+num.names$ -- 15
+pop$ -- 36
+preamble$ -- 1
+purify$ -- 33
+quote$ -- 0
+skip$ -- 51
+stack$ -- 0
+substring$ -- 62
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 0
+while$ -- 10
+width$ -- 0
+write$ -- 69
